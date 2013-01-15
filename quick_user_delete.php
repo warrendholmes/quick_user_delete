@@ -2,7 +2,7 @@
 /*
 Plugin Name: Quick User Delete.
 Plugin URI: http://warrenholmes.co.za
-Description: Quickly delete a user. Does not work on MS yet. Reason - http://core.trac.wordpress.org/ticket/19867
+Description: Quickly delete a user.
 Version: 1.0.0
 Author: Warren Holmes
 Author URI: http://warrenholmes.co.za/
